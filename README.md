@@ -44,7 +44,6 @@ Write [.eslintrc.js](.eslintrc.js) and [.prettierrc.js](.prettierrc.js) files at
     "start": "next start",
     "lint": "eslint --ext js,jsx,ts,tsx --fix"
   },
-
 ````
 
 ## Typescriptify JS files
@@ -56,4 +55,4 @@ Change JS extension to .tsx for files containing JSX and extesnion .ts otherwise
 ````bash
 npm run dev
 ````
-![run project](public/images/sc_nextjs_typescript_repo_Peek 2021-03-21 19-15.mp4)
+![run dev server](public/images/nextjs_js_to_ts_Peek.gif)
